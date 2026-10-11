@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br /><br />
 <p align="center">
 <a href="https://www.middlewarehq.com/"><img src="https://github.com/middlewarehq/middleware/blob/main/media_files/logo.png" alt="Middleware Logo" width=300px></a>
@@ -408,3 +409,7 @@ This project is licensed under the [Apache 2.0](https://github.com/middlewarehq/
 
 
 ![Banner](https://github.com/middlewarehq/middleware/blob/main/media_files/banner.png)
+=======
+# Prompt-Shield
+Prompt Shield is an AI security middleware designed to detect prompt injection attacks and malicious inputs in LLM-powered applications. Built with Python and Flask, it analyzes prompts, identifies potential threats, and adds a protective layer to AI workflows.
+>>>>>>> 5f1a8786cdd3ce876b2ae4aed7560d1f58788470
